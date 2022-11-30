@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Bash Training in ALX
+This readme should not be empty
